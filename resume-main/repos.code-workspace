@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../Documents/repos"
+		},
+		{
+			"path": "../../Documents/serverless app"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "repos"
+	}
+}
