@@ -1,6 +1,6 @@
 # RESUME CHALLENGE #
 
-[Cristian's Resume](https://d16pdhugekhsy8.cloudfront.net/)
+[Cristian's Resume](https://cmresume.cr1st1anlinux.net/)
 
 <!-- 
 ## **1. Certification** ##
